@@ -1,0 +1,57 @@
+============[Date]============
+[ 2020-04-26 00:05:20  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat_id is empty
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= Hello
+
+
+============[Trace]===========
+#0 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/k6010526/public_html/telegram.amhtechno.com/index.php(13): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2020-04-26 00:20:55  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= 
+
+
+============[Trace]===========
+#0 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/k6010526/public_html/telegram.amhtechno.com/index.php(13): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2020-04-26 00:43:22  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= 
+
+
+============[Trace]===========
+#0 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/k6010526/public_html/telegram.amhtechno.com/index.php(13): Telegram->sendMessage(Array)
+#4 {main}
+

@@ -1,0 +1,665 @@
+============[Date]============
+[ 2020-04-25 11:56:16  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat_id is empty
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= Hello
+
+
+============[Trace]===========
+#0 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/k6010526/public_html/telegram.amhtechno.com/index.php(13): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2020-04-25 18:22:55  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat_id is empty
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= Hello
+
+
+============[Trace]===========
+#0 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/k6010526/public_html/telegram.amhtechno.com/index.php(13): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2020-04-25 18:22:55  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat_id is empty
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= Hello
+
+
+============[Trace]===========
+#0 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/k6010526/public_html/telegram.amhtechno.com/index.php(13): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2020-04-25 18:22:55  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat_id is empty
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= Hello
+
+
+============[Trace]===========
+#0 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/k6010526/public_html/telegram.amhtechno.com/index.php(13): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2020-04-25 18:23:28  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat_id is empty
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= Hello
+
+
+============[Trace]===========
+#0 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/k6010526/public_html/telegram.amhtechno.com/index.php(13): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2020-04-25 18:23:30  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat_id is empty
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= Hello
+
+
+============[Trace]===========
+#0 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/k6010526/public_html/telegram.amhtechno.com/index.php(13): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2020-04-25 18:26:08  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat_id is empty
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= Hello
+
+
+============[Trace]===========
+#0 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/k6010526/public_html/telegram.amhtechno.com/index.php(13): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2020-04-25 18:26:09  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat_id is empty
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= Hello
+
+
+============[Trace]===========
+#0 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/k6010526/public_html/telegram.amhtechno.com/index.php(13): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2020-04-25 18:34:58  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat_id is empty
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= Hello
+
+
+============[Trace]===========
+#0 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/k6010526/public_html/telegram.amhtechno.com/index.php(13): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2020-04-25 18:42:59  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat_id is empty
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= Hello
+
+
+============[Trace]===========
+#0 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/k6010526/public_html/telegram.amhtechno.com/index.php(13): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2020-04-25 19:05:02  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat_id is empty
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= Hello
+
+
+============[Trace]===========
+#0 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/k6010526/public_html/telegram.amhtechno.com/index.php(13): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2020-04-25 19:05:52  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat_id is empty
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= Hello
+
+
+============[Trace]===========
+#0 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/k6010526/public_html/telegram.amhtechno.com/index.php(13): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2020-04-25 19:05:54  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat_id is empty
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= Hello
+
+
+============[Trace]===========
+#0 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/k6010526/public_html/telegram.amhtechno.com/index.php(13): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2020-04-25 19:05:56  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat_id is empty
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= Hello
+
+
+============[Trace]===========
+#0 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/k6010526/public_html/telegram.amhtechno.com/index.php(13): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2020-04-25 19:11:16  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat_id is empty
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= Hello
+
+
+============[Trace]===========
+#0 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/k6010526/public_html/telegram.amhtechno.com/index.php(13): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2020-04-25 19:11:18  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat_id is empty
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= Hello
+
+
+============[Trace]===========
+#0 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/k6010526/public_html/telegram.amhtechno.com/index.php(13): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2020-04-25 19:11:20  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat_id is empty
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= Hello
+
+
+============[Trace]===========
+#0 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/k6010526/public_html/telegram.amhtechno.com/index.php(13): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2020-04-25 19:11:25  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat_id is empty
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= Hello
+
+
+============[Trace]===========
+#0 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/k6010526/public_html/telegram.amhtechno.com/index.php(13): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2020-04-25 19:11:26  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat_id is empty
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= Hello
+
+
+============[Trace]===========
+#0 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/k6010526/public_html/telegram.amhtechno.com/index.php(13): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2020-04-25 19:11:29  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat_id is empty
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= Hello
+
+
+============[Trace]===========
+#0 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/k6010526/public_html/telegram.amhtechno.com/index.php(13): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2020-04-25 19:19:03  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat_id is empty
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= Hello
+
+
+============[Trace]===========
+#0 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/k6010526/public_html/telegram.amhtechno.com/index.php(13): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2020-04-25 19:24:40  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat_id is empty
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= Hello
+
+
+============[Trace]===========
+#0 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/k6010526/public_html/telegram.amhtechno.com/index.php(13): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2020-04-25 19:24:42  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat_id is empty
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= Hello
+
+
+============[Trace]===========
+#0 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/k6010526/public_html/telegram.amhtechno.com/index.php(13): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2020-04-25 19:24:44  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat_id is empty
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= Hello
+
+
+============[Trace]===========
+#0 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/k6010526/public_html/telegram.amhtechno.com/index.php(13): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2020-04-25 19:35:05  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat_id is empty
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= Hello
+
+
+============[Trace]===========
+#0 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/k6010526/public_html/telegram.amhtechno.com/index.php(13): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2020-04-25 19:53:06  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat_id is empty
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= Hello
+
+
+============[Trace]===========
+#0 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/k6010526/public_html/telegram.amhtechno.com/index.php(13): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2020-04-25 20:13:08  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat_id is empty
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= Hello
+
+
+============[Trace]===========
+#0 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/k6010526/public_html/telegram.amhtechno.com/index.php(13): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2020-04-25 20:35:09  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat_id is empty
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= Hello
+
+
+============[Trace]===========
+#0 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/k6010526/public_html/telegram.amhtechno.com/index.php(13): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2020-04-25 21:25:12  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat_id is empty
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= Hello
+
+
+============[Trace]===========
+#0 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/k6010526/public_html/telegram.amhtechno.com/index.php(13): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2020-04-25 21:53:13  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat_id is empty
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= Hello
+
+
+============[Trace]===========
+#0 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/k6010526/public_html/telegram.amhtechno.com/index.php(13): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2020-04-25 22:23:16  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat_id is empty
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= Hello
+
+
+============[Trace]===========
+#0 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/k6010526/public_html/telegram.amhtechno.com/index.php(13): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2020-04-25 22:33:51  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat_id is empty
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= Hello
+
+
+============[Trace]===========
+#0 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/k6010526/public_html/telegram.amhtechno.com/index.php(13): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2020-04-25 22:55:17  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat_id is empty
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= Hello
+
+
+============[Trace]===========
+#0 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/k6010526/public_html/telegram.amhtechno.com/index.php(13): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2020-04-25 23:29:19  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat_id is empty
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= Hello
+
+
+============[Trace]===========
+#0 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/k6010526/public_html/telegram.amhtechno.com/index.php(13): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2020-04-25 23:43:35  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat_id is empty
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= Hello
+
+
+============[Trace]===========
+#0 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/k6010526/public_html/telegram.amhtechno.com/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/k6010526/public_html/telegram.amhtechno.com/index.php(13): Telegram->sendMessage(Array)
+#4 {main}
+
